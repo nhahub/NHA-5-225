@@ -15,10 +15,10 @@ fields available in the dataset and clearly stated assumptions.
 
 Project team members:
 
-Anas Gaber
-Yamen Amr
-Asmaa Mokhtar
-Hassan Alaa
+Anas Gaber,
+Yamen Amr,
+Asmaa Mokhtar,
+Hassan Alaa,
 Yasmin Mahmoud 
 
 Github repo link: https://github.com/nhahub/NHA-5-225/tree/main
